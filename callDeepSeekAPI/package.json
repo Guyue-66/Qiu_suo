@@ -1,0 +1,12 @@
+{
+  "name": "callDeepSeekAPI",
+  "version": "1.0.0",
+  "description": "DeepSeek API cloud function",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3",
+    "axios": "^1.3.4"
+  },
+  "author": "",
+  "license": "ISC"
+} 
