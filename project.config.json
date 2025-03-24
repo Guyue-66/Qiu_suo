@@ -1,0 +1,60 @@
+{
+    "description": "项目配置文件",
+    "miniprogramRoot": "miniprogram/",
+    "cloudfunctionRoot": "cloudfunctions/",
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "enhance": true,
+        "postcss": true,
+        "preloadBackgroundData": false,
+        "minified": true,
+        "newFeature": true,
+        "coverView": true,
+        "nodeModules": true,
+        "autoAudits": false,
+        "showShadowRootInWxmlPanel": true,
+        "scopeDataCheck": false,
+        "uglifyFileName": false,
+        "checkInvalidKey": true,
+        "checkSiteMap": true,
+        "uploadWithSourceMap": true,
+        "compileHotReLoad": false,
+        "lazyloadPlaceholderEnable": false,
+        "useMultiFrameRuntime": true,
+        "useApiHook": true,
+        "useApiHostProcess": true,
+        "packNpmManually": true,
+        "packNpmRelationList": [
+            {
+                "packageJsonPath": "./package.json",
+                "miniprogramNpmDistDir": "./"
+            }
+        ],
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "ignoreUploadUnusedFiles": true,
+        "minLibVersion": "3.0.2"
+    },
+    "compileType": "miniprogram",
+    "appid": "wx64e6796d76396187",
+    "projectname": "暖通AI助手",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {},
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    },
+    "cloudfunctionTemplateRoot": "cloudfunctionTemplate/",
+    "cloud": true,
+    "srcMiniprogramRoot": "miniprogram/",
+    "libVersion": "3.0.2"
+}
